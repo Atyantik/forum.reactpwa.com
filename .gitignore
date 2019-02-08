@@ -8,3 +8,6 @@ server
 core
 studio.json
 composer.lock
+node_modules
+.sass-cache
+.less-cache

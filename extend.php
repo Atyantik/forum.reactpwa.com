@@ -11,6 +11,11 @@
 
 use Flarum\Extend;
 
-return [
-    // Register extenders here to customize your forum!
-];
+//use App\Ads\AdsExtend;
+//
+//return array_merge((
+//    new AdsExtend())->init(),
+//    []
+//);
+
+return [];

@@ -1,0 +1,37 @@
+{
+  "name": "app/ads",
+  "description": "Carbon, Codefund and Google Ads",
+  "keywords": [
+    "flarum"
+  ],
+  "type": "flarum-extension",
+  "license": "MIT",
+  "require": {
+    "flarum/core": "^0.1.0-beta.8"
+  },
+  "authors": [
+    {
+      "name": "Tirth Bodawala",
+      "email": "tirthbodawala@atyantik.com",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "App\\Ads\\": "src/"
+    }
+  },
+  "extra": {
+    "flarum-extension": {
+      "title": "Ads",
+      "icon": {
+        "name": "",
+        "backgroundColor": "",
+        "color": ""
+      }
+    },
+    "flagrow": {
+      "discuss": ""
+    }
+  }
+}
