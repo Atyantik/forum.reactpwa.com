@@ -21,6 +21,7 @@
         "docs": "https://flarum.org/docs/"
     },
     "require": {
+        "flagrow/bazaar": "^0.3.9",
         "flagrow/flarum-ext-analytics": "^0.7.0",
         "flarum/approval": "^0.1.0",
         "flarum/auth-facebook": "^0.1.0",
